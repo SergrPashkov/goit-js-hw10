@@ -8,10 +8,3 @@ categoriesItem.forEach(function (item) {
 	console.dir(`\nCategory: ${item.children[0].textContent}`);
 	console.dir(`Elements: ${item.children[1].children.length} `);
 });
-
-
-
-
-
-
-
