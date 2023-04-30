@@ -24,4 +24,3 @@ const markup = images.map(
   ).join('');
 
 list.insertAdjacentHTML("beforeend", markup)
-console.dir(markup);
